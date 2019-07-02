@@ -2,7 +2,7 @@
 
 LinkedIn is a source of quality material, often helping people find jobs and connecting people with common interests. Oftentimes, like any form of social media, misuse is bound to occur. This is a lovingly crafted generator of the LinkedIn 
 posts we all love and adore. From the #truestories of kind-hearted, almost "superhuman" recruiters just going out of their ways to 
-help some poor candidate who in their words "would have never gotten a job otherwise", to the totally unbelievable "true stories" that happend (really, they did!). 
+help some poor candidate who in their words "would have never gotten a job otherwise", to the totally unbelievable "true stories" that happened (really, they did!). 
 
 ## Examples
 
