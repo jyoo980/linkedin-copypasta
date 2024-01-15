@@ -19,4 +19,4 @@ Featuring over 300,000,000 unique possibilities!
 - Python (at least 3.6)
 
 ## To run
-- Run `python generate.py` from the root of this directory for your lovingly crafted shitpost
+- Run `python generate.py` from the root of this directory for your lovingly crafted shitpost.
